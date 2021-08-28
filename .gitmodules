@@ -4,3 +4,6 @@
 [submodule "aws-sdk"]
 	path = aws-sdk
 	url = https://github.com/ronilahav/aws-sdk.git
+[submodule "transactions-table"]
+	path = transactions-table
+	url = https://github.com/ronilahav/transactions-table.git
