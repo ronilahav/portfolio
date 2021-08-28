@@ -1,3 +1,6 @@
 [submodule "excursion"]
 	path = excursion
 	url = https://github.com/ronilahav/excursion.git
+[submodule "aws-sdk"]
+	path = aws-sdk
+	url = https://github.com/ronilahav/aws-sdk.git
